@@ -1,0 +1,39 @@
+{
+    "saldo": 1975.0,
+    "registre": {
+        "2025-07-09": {
+            "ingressos": [
+                {
+                    "categoria": "treball",
+                    "quantitat": 1500.0
+                },
+                {
+                    "categoria": "treball",
+                    "quantitat": 1500.0
+                }
+            ],
+            "despeses": [
+                {
+                    "categoria": "lloguer",
+                    "quantitat": 325.0
+                },
+                {
+                    "categoria": "subministraments",
+                    "quantitat": 50.0
+                },
+                {
+                    "categoria": "lloguer",
+                    "quantitat": 400.0
+                },
+                {
+                    "categoria": "oci",
+                    "quantitat": 50.0
+                },
+                {
+                    "categoria": "accions",
+                    "quantitat": 200.0
+                }
+            ]
+        }
+    }
+}
